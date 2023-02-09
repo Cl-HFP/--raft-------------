@@ -4,6 +4,6 @@ raft协议的实现参考了原论文：Diego Ongaro and John Ousterhout. In Sea
 raft协议的过程可参考：Raft Github pages：[https://link.zhihu.com/?target=https%3A//raft.github.io/]     
 
 ## 整体架构图
-![](./Photos/1.png)
+![](https://gitee.com/he-fupeng123/Photos/raw/master/Photos/ssx-1.png)
 ## 以文件写操作为例，系统的工作流程
-![](./Photos/2.png)
+[![](./Photos/2.png)](https://github.com/Cl-HFP/DFS_based_on_raft/blob/main/Photos/2.png)
